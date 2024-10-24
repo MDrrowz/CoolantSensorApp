@@ -1,0 +1,18 @@
+## Ignore Visual Studio temporary files, build results, and
+## folder-based project configuration files
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignore build results
+[Bb]in/
+[Oo]bj/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Ignore other system files
+*.DS_Store
+*.vscode
